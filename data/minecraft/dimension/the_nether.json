@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:the_nether",
+    "generator": {
+        "type": "minecraft:flat",
+        "settings": {
+            "layers": [
+                {
+                    "height": 1,
+                    "block": "minecraft:orange_stained_glass"
+                }
+            ],
+            "biome": "minecraft:the_void",
+            "structures": {
+                "stronghold": {
+                    "count": 0
+                },
+                "structures": {}
+            }
+        }
+    }
+}

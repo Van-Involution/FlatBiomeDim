@@ -1,0 +1,43 @@
+{
+    "minecraft": {
+        "overworld": {
+            "color": "white",
+            "dims": {"overworld": "the_void"}
+        },
+        "the_nether": {
+            "color": "orange",
+            "dims": {"the_nether": "the_void"}
+        },
+        "the_end": {
+            "color": "purple",
+            "dims": {"the_end": "the_void"}
+        }
+    },
+    "flatbiome": {
+        "overworld": {
+            "color": "white",
+            "dims": {
+                "desert": "desert",
+                "mountains": "mountains",
+                "warm_ocean": "warm_ocean",
+                "snowy_tundra": "snowy_tundra",
+                "bamboo_jungle": "bamboo_jungle"
+            }
+        },
+        "the_nether": {
+            "color": "red",
+            "dims": {
+                "nether_wastes": "nether_wastes",
+                "crimson_forest": "crimson_forest",
+                "soul_sand_valley": "soul_sand_valley",
+                "basalt_deltas": "basalt_deltas"
+            }
+        },
+        "the_end": {
+            "color": "purple",
+            "dims": {
+                "end_barrens": "end_barrens"
+            }
+        }
+    }
+}
